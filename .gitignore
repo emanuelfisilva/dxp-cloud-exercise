@@ -1,0 +1,2 @@
+# Ignore node_modules to avoid possible dependecies conflicts and to keep the repository lighter between branch changes
+node_modules
