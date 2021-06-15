@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/emanuelfisilva/dxp-cloud-exercise/issues"
   },
-  "homepage": "https://github.com/emanuelfisilva/dxp-cloud-exercise#readme"
+  "homepage": "https://github.com/emanuelfisilva/dxp-cloud-exercise#readme",
+  "dependencies": {
+    "testcafe": "^1.14.2"
+  }
 }
