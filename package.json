@@ -4,7 +4,8 @@
   "description": "This is the automation project developed as part of the Level 3 Exercise for Liferay Cloud",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:acceptance": "testcafe chrome ./tests -s takeOnFails=true",
+    "test:chrome:headless": "testcafe chrome:headless ./tests -s takeOnFails=true"
   },
   "repository": {
     "type": "git",
