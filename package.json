@@ -1,0 +1,24 @@
+{
+  "name": "dxp-cloud-exercise",
+  "version": "1.0.0",
+  "description": "This is the automation project developed as part of the Level 3 Exercise for Liferay Cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelfisilva/dxp-cloud-exercise.git"
+  },
+  "keywords": [
+    "TestCafe",
+    "Automation",
+    "Testing"
+  ],
+  "author": "Emanuel Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuelfisilva/dxp-cloud-exercise/issues"
+  },
+  "homepage": "https://github.com/emanuelfisilva/dxp-cloud-exercise#readme"
+}
